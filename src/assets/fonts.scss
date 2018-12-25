@@ -1,0 +1,114 @@
+@font-face {
+  font-family: 'BMJUA';
+  src: url('./fonts/BMJUA_ttf.ttf');
+}
+
+
+.Menu {
+  position: relative;
+  width: 100%;
+  margin: 10% auto 5% auto;
+
+  div, dt, dd, table, tr, td, ul, ol, li, h1, h2, h3 {
+    padding: 0;
+    font-family: 'BMJUA';
+    font-size: 10px;
+  }
+  div {
+    display: block;
+  }
+  a {
+    color: #c30400;
+    text-decoration: none;
+  }
+  ul.menu {
+    margin: 0 auto 0 auto;
+    text-align: center;
+    li {
+        display: inline-block;
+        margin: 1%;
+        text-align: center;
+        img.img-resize {
+            width: 150px;
+        }
+    }
+  }
+}
+
+
+.Playlist {
+  position: relative;
+  width: 100%;
+  margin: 0% auto 5% auto;
+
+  div, dt, dd, table, tr, td, ul, ol, li, h1, h2, h3 {
+    padding: 0;
+    font-family: 'BMJUA';
+    font-size: 10px;
+  }
+  dd {
+    background: #fff;
+    margin: 1%;
+    display: inline-block;
+    text-align: center;
+  }
+  div {
+    display: block;
+  }
+  a {
+    color: #c30400;
+    text-decoration: none;
+  }
+  h2 {
+    color: #c30400;
+    font-size: 3.3em;
+    text-align: center;
+    margin: 1%;
+  }
+  // ul.menu {
+  //   margin: 0 auto 0 auto;
+  //   text-align: center;
+  //   li {
+  //       display: inline-block;
+  //       margin: 1%;
+  //       text-align: center;
+  //       img.img-resize {
+  //           width: 150px;
+  //       }
+  //   }
+  // }
+}
+
+.Emoji {
+  position: relative;
+  width: 100%;
+  margin: 5% auto 5% auto;
+
+  div, dt, dd, table, tr, td, ul, ol, li, h1, h2, h3 {
+    padding: 0;
+    font-family: 'BMJUA';
+    font-size: 10px;
+  }
+  div {
+    display: block;
+  }
+  a {
+    color: #c30400;
+    text-decoration: none;
+  }
+  h2 {
+    color: #c30400;
+    font-size: 3.3em;
+    text-align: center;
+    margin: 1%;
+  }
+  ul.emoji {
+    margin: 0 auto 0 auto;
+    text-align: center;
+  }
+  ul.emoji li {
+    display: inline-block;
+    margin: 1%;
+    text-align: center;
+  }
+}
