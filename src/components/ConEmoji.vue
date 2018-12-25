@@ -17,6 +17,8 @@
       <li><img src="https://static-cdn.jtvnw.net/emoticons/v1/1151401/3.0" /></li>
       <li><img src="https://static-cdn.jtvnw.net/emoticons/v1/1145381/3.0" /></li>
       <li><img src="https://static-cdn.jtvnw.net/emoticons/v1/925494/3.0" /></li>
+      <li><img src="https://static-cdn.jtvnw.net/emoticons/v1/1692993/3.0" /></li>
+      <li><img src="https://static-cdn.jtvnw.net/emoticons/v1/1692988/3.0" /></li>
     </ul>
   </div>
 </template>
